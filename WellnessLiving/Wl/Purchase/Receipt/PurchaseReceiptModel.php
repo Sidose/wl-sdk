@@ -413,6 +413,7 @@ class PurchaseReceiptModel extends WlModelAbstract
    */
   public $url_print;
 
+
   /**
    * The URL for printing on a receipt printer.
    *
